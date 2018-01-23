@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1380846550 source:c:\users\servbem1\desktop\lp 0309\exercicio\adivinhe o numero\main.cpp
+	<iostream>
+	<cstdlib>
+
